@@ -382,9 +382,11 @@ p {
 
 }
 
+/*
 .gray-scale{
     filter: grayscale(1)
 }
+*/
 
 .section{
     padding: 2rem 1rem;
